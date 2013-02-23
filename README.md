@@ -8,7 +8,7 @@ Release under Creative Commons Attribution 3.0 (see LICENSE.txt)
 TO build on OSX
 install xcode
 install homebrew
-`brew install ffmpeg x264 fdk-aac rtmpdump opencv`
+`brew install ffmpeg x264 fdk-aac rtmpdump opencv qt5`
 `qmake && make`
 
 You will need to creat a file called url.h thhat contains a MY_URL macro
